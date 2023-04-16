@@ -1,6 +1,4 @@
 #
-
-# Import the List type from the typing module, and import the Student and Teacher classes from each files, respectively.
 from typing import List
 
 from student import Student
@@ -48,6 +46,4 @@ class School:
         print(f"{self.name} Teachers:")
         for teacher in self.teachers:
             teacher.introduce()
-
-
 
