@@ -4,7 +4,7 @@
 
 <br>
 
-**I will upload the pieces of code every day, till I done with each of the example projects. 
+**I will upload the pieces of code every day, till I done with each of the example projects.**
 
 1. The first example project is about one school system, specifically the students onboarding process.
 
