@@ -16,3 +16,5 @@
 
 2. The order file will contains the Order class.
 
+3. The table file contains the Table class.
+
