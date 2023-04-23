@@ -18,3 +18,5 @@
 
 3. The table file contains the Table class.
 
+4. The restaurant contains the Restaurant class.
+
