@@ -20,3 +20,4 @@
 
 4. The restaurant contains the Restaurant class.
 
+5. The main file contains the execution examples.
